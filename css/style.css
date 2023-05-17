@@ -11,8 +11,8 @@
     font-family:Raleway;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1.36;
-    letter-spacing: 1.48;
+    line-height: 1.93em;
+    letter-spacing: 0.03em;
     color: #2196F3;
 }
 
@@ -20,24 +20,24 @@
     font-family: Raleway;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1.36;
-    letter-spacing: 1,48;
+    line-height: 2.25em;
+    letter-spacing: 0.03em;
     color: #212121;
 }
 .second-half-webstudio2 {
     font-family: Raleway;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1.36;
-    letter-spacing: 1.48;
+    line-height: 2.25em;
+    letter-spacing: 0.03em;
     color: #fff;
 }
 .link-style {   
     text-decoration: none; 
     font-weight: 500; 
     font-size: 14px;   
-    line-height: 1.14; 
-    letter-spacing: 1.32; 
+    line-height: 0.88em; 
+    letter-spacing: 0.03em; 
     color: #212121;
 }  
 
@@ -46,8 +46,8 @@
     color: #757575;
     font-weight: 500;
     font-size: 14px;
-    line-height: 1.14;
-    letter-spacing: 1.32;
+    line-height: 0.88em;
+    letter-spacing: 0.03em;
 } 
  
 .link-contact:hover, .link-style:hover {  
@@ -59,14 +59,14 @@
     color: #ffff;
     font-weight: 700;
     font-size: 16px;
-    line-height: 1.30;
+    line-height: 1.88em;
     cursor: pointer; 
 }
 
 .bth2 {
     font-weight: 500; 
     font-size: 16px; 
-    line-height: 1.30; 
+    line-height: 1.88em; 
     cursor: pointer;
 }  
 
@@ -83,15 +83,15 @@
 .list-works1 {  
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.36; 
-    letter-spacing: 1.96; 
+    line-height: 1.88em; 
+    letter-spacing: 0.06em; 
 } 
 
 .list-works2 {  
     font-weight: 700;
     font-size: 16px;
-    line-height: 1.30; 
-    letter-spacing: 1.48;  
+    line-height: 1.88em; 
+    letter-spacing: 0.03em;  
     color: #757575;
 } 
 
@@ -109,8 +109,8 @@
     color: #ffff;
     font-family: Raleway;
     font-size: 14px;
-    line-height: 1.24;
-    letter-spacing: 1.48;
+    line-height: 1.5em;
+    letter-spacing: 0.03em;
 }
 .adress-footer2 {  
     font-style: normal;
@@ -118,8 +118,8 @@
     color: rgb(255, 255, 255, 0.6);
     font-family: Raleway;
     font-size: 14px;
-    line-height: 1.24;
-    letter-spacing: 1.48;
+    line-height: 1.5em;
+    letter-spacing: 0.03em;
 } 
 .adress-footer3 { 
     font-style: normal;
@@ -127,8 +127,8 @@
     color: rgb(255, 255, 255, 0.6);
     font-family: Raleway;
     font-size: 14px;
-    line-height: 1.24;
-    letter-spacing: 1.48;  
+    line-height: 1.5em;
+    letter-spacing: 0.03em;  
 } 
  
 .large-text { 
@@ -138,8 +138,8 @@
     top:80px;
     font-weight: 900;
     font-size: 40px;
-    line-height: 1.60;
-    letter-spacing: 1.96;
+    line-height: 3.75em;
+    letter-spacing: 0.06em;
     color: #ffff;  
     background-color: #2f303a;
 }
@@ -147,34 +147,34 @@
 .list-text1 { 
     font-weight: 700;
     font-size: 14px;
-    line-height: 1.16;
-    letter-spacing: 1.48;
+    line-height: 1.14em;
+    letter-spacing: 0.03em;
 }
  
 .list-text2 { 
     font-size: 14px;
-    line-height: 1.24;
-    letter-spacing: 1.48; 
+    line-height: 1,71em;
+    letter: spacing 0.03em;; 
     color: #757575;
 } 
 
 .team, .expert {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.42;
-    letter-spacing: 1.32;
+    line-height: 2.63em;
+    letter-spacing: 0.03em;
 } 
  
 .team-name {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.19;
-    letter-spacing: 1.32; 
+    line-height: 1.18em;
+    letter-spacing: 0.03em; 
 } 
 .team-expert { 
     font-size: 16px;
-    line-height: 1.19;
-    letter-spacing: 1.48; 
+    line-height: 1.18em;
+    letter-spacing: 0.03em; 
     color: #757575;
 } 
  
